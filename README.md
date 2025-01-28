@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">A passionate frontend, backend and asp.net junior from Turkey</h3>
 
-- 🌱 I’m currently learning **React, DJango, Git&Github, Web API**
+- 🌱 I’m currently learning **React, Git&Github, Web API**
 
 - 📫 How to reach me **mfirat.819@gmail.com**
 
